@@ -56,6 +56,6 @@ plt.legend(loc ="center")
 
 ### Recommendations
 
-	1. Attract drivers with incentives in the Rural areas as the total riders are more in number it might profit in the future even though the Average fare per driver is more.
-	2. Attract customers by giving promotions as the fare per ride is more than the fare for driver and this helps to win over the competitors of Pyber
-	3. Attract Customers in Suburban as riders per driver in less in number
+1. Attract drivers with incentives in the Rural areas as the total riders are more in number it might profit in the future even though the Average fare per driver is more.
+2. Attract customers by giving promotions as the fare per ride is more than the fare for driver and this helps to win over the competitors of Pyber
+3. Attract Customers in Suburban as riders per driver in less in number
